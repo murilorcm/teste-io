@@ -1,0 +1,4 @@
+Este é um teste de leitura e escreita de arquivos!
+
+Estou verificando se meu código lê mais de uma linha,
+se você chegou até aqui ele funcionou!
